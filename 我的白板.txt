@@ -1,42 +1,9 @@
-JIRA:
-http://test.ioteams.com:8085/browse/DHAP/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel
-
-git:http://172.19.0.9:10080/groups/shap
-
-周报：https://tower.im/projects/4e0c047588324223aa51616d72e24c83/dirs/a2a20473263e4efc95126c9db6f14a1e/
-
-
-数据库：
-172.19.1.21
-root
-fsf4fref@#D
-
-服务器：
-172.19.1.28
-172.19.1.29
-172.19.1.30
-帐号：app
-密码：app_!QAZxsw2
-
-
-阿里云Maven仓库地址
+闃块噷浜慚aven浠撳簱鍦板潃
 <mirror>
 	<id>nexus-aliyun</id>
 	<mirrorOf>*</mirrorOf>
 	<name>Nexus aliyun</name>
 	<url>http://maven.aliyun.com/nexus/content/groups/public</url>
 </mirror>
-
-
-vpn账号账号和密码 
-1.	徐亚川 ：   rt_xuyangchuan                 Abcd1234
-修改密码地址：https://183.230.40.9/login/login.html 
- 请选择vpn内部测试版
- 请务必自行修改自己VPN帐号的密码！！！！
-附件：
-1.	中移物联网内部测试iNode客户端设置指导
-2.	中移物联网iNode客户端设置指导
-3.	Inode客户端认证问题处理流程
-
 
 
